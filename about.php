@@ -9,7 +9,7 @@
 	.para{margin-right: 40%;}
 	.column {
     float: right;
-    width: 50%;
+    width: 50%; 
 }
 
 /* Clear floats after the columns */
